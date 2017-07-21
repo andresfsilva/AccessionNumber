@@ -1,0 +1,4 @@
+rootProject.name = 'AFSILVA'
+include ':common'
+include ':accession-number-terminal'
+include ':accession-number-web'

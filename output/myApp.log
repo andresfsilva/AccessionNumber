@@ -1,0 +1,7 @@
+17:50:48.581 [main] INFO  c.t.afsilva.AccessionNumberTerminal - Starting AccessionNumberTerminal on AFS-PC (C:\Users\PIPE\Documents\AFSILVA\output\accession-number-terminal-1.0-FULL.jar started by PIPE in C:\Users\PIPE\Documents\AFSILVA\output)
+17:50:48.588 [main] INFO  c.t.afsilva.AccessionNumberTerminal - No active profile set, falling back to default profiles: default
+17:50:48.853 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@97e1986: startup date [Fri Jul 21 17:50:48 COT 2017]; root of context hierarchy
+17:50:52.093 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+17:50:52.523 [main] INFO  c.t.afsilva.AccessionNumberTerminal - Started AccessionNumberTerminal in 4.584 seconds (JVM running for 6.864)
+17:50:52.529 [Thread-2] INFO  o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@97e1986: startup date [Fri Jul 21 17:50:48 COT 2017]; root of context hierarchy
+17:50:52.534 [Thread-2] INFO  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
